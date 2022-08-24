@@ -4,15 +4,17 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## NPM Packages used in this project
 
-1- [Axios]('https://axios-http.com/docs/intro')
-2- [React Icons]('https://react-icons.github.io/react-icons/')
-3- [React Router DOM]('https://v5.reactrouter.com/web/guides/quick-start')
+1- [Axios](https://axios-http.com/docs/intro)
+
+2- [React Icons](https://react-icons.github.io/react-icons/)
+
+3- [React Router DOM](https://v5.reactrouter.com/web/guides/quick-start)
 
 ## API used in this project
 
-[Rest Countries]('https://restcountries.com/')
+[Rest Countries](https://restcountries.com/)
 
-####Preview:
+#### Preview:
 
 <img src="./previews/thumbnail.png">
 
