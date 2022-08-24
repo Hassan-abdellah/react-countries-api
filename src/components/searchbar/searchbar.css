@@ -1,0 +1,33 @@
+.searchbar-container{
+    position: relative;
+    width:400px;
+    color:var(--input-color);
+}
+.searchbar-container input{
+    width: 100%;
+    background-color: var(--element-bg);
+    color:var(--input-color);
+    padding:1rem 3rem;
+    font-size: 0.9rem;
+    border: 0;
+    border-radius: 5px;
+    box-shadow: var(--shadow);
+    -moz-box-shadow: var(--shadow);
+    -webkit-box-shadow: var(--shadow);
+}
+.searchbar-container input:focus{
+    outline: 0;
+}
+.searchbar-container > svg{
+    position: absolute;
+    left:10px;
+    top:50%;
+    transform: translateY(-50%);
+    font-size: 1.3rem;
+    cursor: pointer;
+}
+@media (max-width:425px) {
+    .searchbar-container{
+        width: 100%;
+    }
+}

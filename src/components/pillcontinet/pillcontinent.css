@@ -1,0 +1,23 @@
+.pills{
+    display: flex;
+    align-items: center;
+    gap:1rem;
+    flex-wrap: wrap;
+    margin-top: 3rem;
+    /* padding-left: 1rem; */
+}
+.pills .pill{
+    display: flex;
+    align-items: center;
+    gap:0.5rem;
+    background-color: var(--element-bg);
+    box-shadow: var(--shadow);
+    padding:0.5rem 1.2rem;
+    border-radius: 25px;
+    -moz-box-shadow: var(--shadow);
+    -webkit-box-shadow: var(--shadow);
+}
+.pills .pill svg{
+    cursor: pointer;
+    font-size: 1.1rem;
+}
