@@ -1,0 +1,10 @@
+.footer {
+  background-color: var(--element-bg);
+  padding-block: 1.3rem;
+  text-align: center;
+  font-size: 1.1rem;
+}
+.footer p a {
+  text-decoration: underline;
+  color: unset;
+}
