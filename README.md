@@ -14,6 +14,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 [Rest Countries](https://restcountries.com/)
 
+## Demo:
+
+[live Demo](https://whereisinworld.netlify.app/)
+
 #### Preview:
 
 <img src="./previews/thumbnail.png">
