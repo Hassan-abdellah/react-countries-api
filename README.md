@@ -18,6 +18,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 <img src="./previews/thumbnail.png">
 
+creadits: [FrontEndMentor](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca)
+
 ## Available Scripts
 
 In the project directory, you can run:
